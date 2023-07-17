@@ -140,7 +140,7 @@
   color: #fff;
   font-size: 22px;
   font-weight: 400;
-  line-height: 1.27273;
+  line-height: 1.27;
   text-transform: uppercase;
   word-spacing: 19px;
 }
@@ -166,8 +166,8 @@
 }
 
 .lots__heading {
-  height: 47px;
   font-size: 40px;
+  line-height: normal;
   font-weight: 700;
   text-transform: uppercase;
   margin-left: 40px;
@@ -240,8 +240,8 @@
 }
 
 .lots__look-more-link {
-  height: 23px;
   font-size: 20px;
+  line-height: normal;
   font-weight: 400;
   margin-left: 40px;
   text-decoration-thickness: 1px;
@@ -269,15 +269,16 @@
 }
 
 .about__title {
-  height: 47px;
   margin: 100px 0;
   font-size: 40px;
+  line-height: normal;
   font-weight: 700;
   text-transform: uppercase;
 }
 
 .about__text {
   font-size: 20px;
+  line-height: normal;
 }
 
 .about__text:not(:last-child) {
